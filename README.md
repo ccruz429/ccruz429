@@ -157,7 +157,7 @@ Every project is an opportunity to understand something a little deeper.
 
 💻 **GitHub:** You're already here.
 
-🌐 **Portfolio:** Coming soon
+🌐 **Portfolio:** https://ccruz429.github.io/DigitalPortfolio/
 
 📍 **Puerto Rico 🇵🇷**
 
